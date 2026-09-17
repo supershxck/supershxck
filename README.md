@@ -26,7 +26,7 @@ Organizing, knowledge, command.
 
 Timing, charts, cards.
 
-- [compass](https://github.com/supershxck/compass) — natal chart and transits in the browser (Swiss Ephemeris)
+- [compass](https://github.com/supershxck/compass) — natal chart and transits in the browser (Swiss Ephemeris) · [live](https://supershxck.github.io/compass/)
 
 ### Table
 
