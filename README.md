@@ -34,7 +34,7 @@ Games, collections, objects you sit with.
 
 - [the-humidor](https://github.com/supershxck/the-humidor) — cigar companion: scan, journal, pairings
 - [lumis-garden](https://github.com/supershxck/lumis-garden) — living ecosystem across Rails, FastAPI, and Expo
-- [ers-ol-main](https://github.com/supershxck/ers-ol-main) — multiplayer Egyptian Rat Screw
+- [skyslap](https://github.com/supershxck/skyslap) — Egyptian Rat Screw with a sky (prototype)
 
 ## Stack
 
