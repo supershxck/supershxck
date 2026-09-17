@@ -1,16 +1,41 @@
-## Hi there 👋
+# shxck · instruments
 
-<!--
-**supershxck/supershxck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack and native work — **Rails**, **Swift**, **TypeScript**.  
+I ship workbenches, collections, and games. The inner rooms hold oracles.
 
-Here are some ideas to get you started:
+Walk the six pins. Some instruments stay in the lab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Craft
+
+| Surface | What you will find |
+|---|---|
+| Native | SwiftUI, SwiftData, on-device vision |
+| Systems | Rails, FastAPI, Docker, Expo |
+| Local-first | Vaults, publishing, lifecycle trackers |
+
+## Rooms
+
+### Workbench
+
+Organizing, knowledge, command.
+
+- [kasee](https://github.com/supershxck/kasee) — collections and cycles in one UX family
+- [obsidian-webspace](https://github.com/supershxck/obsidian-webspace) — a vault, published
+
+### Oracle
+
+Timing, charts, cards.
+
+- [compass](https://github.com/supershxck/compass) — natal chart and transits in the browser (Swiss Ephemeris)
+
+### Table
+
+Games, collections, objects you sit with.
+
+- [the-humidor](https://github.com/supershxck/the-humidor) — cigar companion: scan, journal, pairings
+- [lumis-garden](https://github.com/supershxck/lumis-garden) — living ecosystem across Rails, FastAPI, and Expo
+- [ers-ol-main](https://github.com/supershxck/ers-ol-main) — multiplayer Egyptian Rat Screw
+
+## Stack
+
+Rails · Swift · TypeScript · Python · Docker · Expo
