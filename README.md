@@ -12,6 +12,7 @@ Walk the six pins. Some instruments stay in the lab.
 | Native | SwiftUI, SwiftData, on-device vision |
 | Systems | Rails, FastAPI, Docker, Expo |
 | Local-first | Vaults, publishing, lifecycle trackers |
+| Command | Python TUI — telemetry, neglect radar, forge |
 
 ## Rooms
 
@@ -19,6 +20,7 @@ Walk the six pins. Some instruments stay in the lab.
 
 Organizing, knowledge, command.
 
+- [sword](https://github.com/supershxck/sword) — Glamdring, Sword of Command (local ops TUI)
 - [kasee](https://github.com/supershxck/kasee) — collections and cycles in one UX family
 - [obsidian-webspace](https://github.com/supershxck/obsidian-webspace) — a vault, published
 
