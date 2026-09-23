@@ -3,7 +3,7 @@
 Full-stack and native work — **Rails**, **Swift**, **TypeScript**.  
 I ship workbenches, collections, and games. The inner rooms hold oracles.
 
-Walk the six pins. Some instruments stay in the lab.
+Walk the six pins, or the [atlas](ATLAS.md). Some instruments stay in the lab.
 
 ## Craft
 
@@ -28,7 +28,7 @@ Organizing, knowledge, command.
 
 Timing, charts, cards.
 
-- [compass](https://github.com/supershxck/compass) — natal chart and transits in the browser (Swiss Ephemeris) · [live](https://supershxck.github.io/compass/)
+- [compass](https://github.com/supershxck/compass) — natal chart and transits in the browser (Swiss Ephemeris)
 
 ### Table
 
