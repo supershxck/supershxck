@@ -3,7 +3,7 @@
 Full-stack and native work — **Rails**, **Swift**, **TypeScript**.  
 I ship workbenches, collections, and games. The inner rooms hold oracles.
 
-Walk the six pins, or the [atlas](ATLAS.md). Some instruments stay in the lab.
+Walk the six pins, or the [atlas](ATLAS.md) for purpose and use. Some instruments stay in the lab.
 
 ## Craft
 
