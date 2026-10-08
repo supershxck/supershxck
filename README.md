@@ -1,7 +1,7 @@
 # shxck
 
 Instruments for a local life — charts, collections, command surfaces, and games.
-I ship workbenches, collections, and games. The inner rooms hold oracles.
+I ship workbenches, collections, and games. 
 
 This page is a manuscript in progress. The rooms are Parts; each open repo is a chapter.
 
