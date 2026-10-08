@@ -3,13 +3,9 @@
 Instruments for a local life — charts, collections, command surfaces, and games.
 I ship workbenches, collections, and games. The inner rooms hold oracles.
 
-This page is a manuscript in progress. The rooms below are Parts. Each linked repo is a chapter. Status marks the edition.
+This page is a manuscript in progress. The rooms are Parts; each open repo is a chapter.
 
-| Edition | Meaning |
-|---|---|
-| **Published** | A working instrument — use it |
-| **Drafting** | Architecture and code are real; the story is unfinished |
-| **First edition** | Complete enough to keep open; no longer the front of the shelf |
+**Editions** — **Published**: a working instrument, use it · **Drafting**: the code is real, the story unfinished · **First edition**: complete, no longer the front of the shelf.
 
 The [atlas](ATLAS.md) is the index of purpose and use. Private lab stays off this page.
 
@@ -31,15 +27,15 @@ The [atlas](ATLAS.md) is the index of purpose and use. Private lab stays off thi
 
 Organizing, knowledge, command.
 
-### Chapter · [sword](https://github.com/supershxck/sword) · Published
+### Chapter 1 · [sword](https://github.com/supershxck/sword) — Published
 
 **Glamdring — Sword of Command.** A Python/Textual TUI and browser companion on the same collectors: telemetry, neglect radar, forge orientation, Docker fleet, markdown signal log. Day-to-day command for the lab.
 
-### Chapter · [kasee](https://github.com/supershxck/kasee) · Published
+### Chapter 2 · [kasee](https://github.com/supershxck/kasee) — Published
 
 **Collections and cycles in one UX family.** A monorepo that holds a SwiftUI cigar companion, a Next.js asset tracker, and a cycle/lunar tracker under one mental model — collection, timeline, journal.
 
-### Chapter · [quote-reader](https://github.com/supershxck/quote-reader) · First edition
+### Chapter 3 · [quote-reader](https://github.com/supershxck/quote-reader) — First edition
 
 **Quotes out of books.** A SwiftUI + Core Data iOS reader: import PDF and EPUB, extract passages with Natural Language, group by theme, resurface daily. An early native chapter on reading as a practice.
 
@@ -49,7 +45,7 @@ Organizing, knowledge, command.
 
 Timing, charts, reflection.
 
-### Chapter · [compass](https://github.com/supershxck/compass) · Published
+### Chapter 4 · [compass](https://github.com/supershxck/compass) — Published
 
 **Natal chart and transits in the browser.** TypeScript, Vite, Swiss Ephemeris (Moshier / WASM). Interactive wheel, Big Three, live sky, somatic correspondences, private notes. Builds to a single offline HTML file. All data stays in `localStorage`.
 
@@ -59,11 +55,11 @@ Timing, charts, reflection.
 
 Games, collections, objects you sit with.
 
-### Chapter · [the-humidor](https://github.com/supershxck/the-humidor) · Published
+### Chapter 5 · [the-humidor](https://github.com/supershxck/the-humidor) — Published
 
 **Cigar companion for iOS.** SwiftUI and SwiftData: band scanning with on-device Vision, encyclopedia, humidor tracking, smoke journal, pairings. The native north star of the Kasee family.
 
-### Chapter · [lumis-garden](https://github.com/supershxck/lumis-garden) · Drafting
+### Chapter 6 · [lumis-garden](https://github.com/supershxck/lumis-garden) — Drafting
 
 **A living ecosystem across three services.** Rails 7 API, FastAPI creature-sim brain, Expo React Native client, wired with Docker Compose. Genetics, behavior, garden — architecture is up; gameplay is still being written.
 
@@ -73,7 +69,7 @@ Games, collections, objects you sit with.
 
 Standalone public builds that do not sit in a room yet.
 
-### Note · [worldcup2026](https://github.com/supershxck/worldcup2026) · First edition
+### Note · [worldcup2026](https://github.com/supershxck/worldcup2026) — First edition
 
 **FIFA 2026 fan dashboard.** Static site with Leaflet host-city maps, a Cloudflare Pages Functions live-score proxy, and optional FastAPI analytics with an offline data fallback.
 
@@ -83,7 +79,7 @@ Standalone public builds that do not sit in a room yet.
 
 Work that lives in the private drafting room. Names only — no links.
 
-| Working title | What it is becoming |
+| Title | What it is becoming |
 |---|---|
 | **Orbis** | Modular local-first astrology studio — natal, synastry, progressions, returns, horary, journal |
 | **Closet** | Local-first wardrobe tracker PWA |
@@ -119,4 +115,4 @@ Some instruments stay in the lab until they earn a public chapter.
 Public face of the lab. Purpose and use for each open chapter: [ATLAS.md](ATLAS.md).  
 Full mission index stays private.
 
-_Edition of this page: drafting · branch `book-draft` pending review._
+_Last revised October 2026._
