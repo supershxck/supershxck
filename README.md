@@ -86,7 +86,6 @@ Work that lives in the private drafting room. Names only — no links.
 | Working title | What it is becoming |
 |---|---|
 | **Orbis** | Modular local-first astrology studio — natal, synastry, progressions, returns, horary, journal |
-| **UNDWR** | Local-first underwear / lingerie tracker — today first, partner optional |
 | **Closet** | Local-first wardrobe tracker PWA |
 | **Humidor** | Local cigar inventory and aging desk (sibling of The Humidor) |
 | **Synesis** | Short narrative sim for learning synastry through characters |
