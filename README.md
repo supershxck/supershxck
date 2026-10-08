@@ -89,7 +89,7 @@ Work that lives in the private drafting room. Names only — no links.
 | **UNDWR** | Local-first underwear / lingerie tracker — today first, partner optional |
 | **Closet** | Local-first wardrobe tracker PWA |
 | **Humidor** | Local cigar inventory and aging desk (sibling of The Humidor) |
-| **Synesis** | Short narrative dating / party sim for learning synastry |
+| **Synesis** | Short narrative sim for learning synastry through characters |
 | **Occuria** | Occurrence research lab for astrological analytics |
 | **Templates** | Static website templates — business, subscription storefront, app landing, portfolio, freelance, practitioner booking |
 | **Skyslap** | Egyptian Rat Screw with astronomical symbolism (successor to the earlier online table) |
